@@ -6,19 +6,20 @@ Hello! My name is Lewis Bessong and im a 16 year old that aspires to become a so
 - Complete 4 useful projects
 - Master Basics of C++
 - Become Familair with github
+- Connect with other people like me
 
 ## Projects
 ### Completed
-- Gas Price Finder (Future Improvements)
-- Tic Tac Toe Game
+- Gas Price Finder (Improvments here and there)
+- Tic Tac Toe Game 
 
 ### In Progress
-- Book Tracker
+- Book Tracker (Currently Working on) 
 - Timer 
 
 ## My Knowledge
 ### Languges 
-- C++
+- C++ (Most undrerstood)
 - Python
 - Java
 
@@ -26,3 +27,4 @@ Hello! My name is Lewis Bessong and im a 16 year old that aspires to become a so
 - Data Structures (Vectors, Arrays, List, etc.)
 - Conditionals (Switch statements, if else statments)
 - Loops (while, do while, for loop)
+- Time logic 
